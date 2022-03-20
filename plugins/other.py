@@ -53,7 +53,7 @@ async def cb_handler(client, update):
         )
     elif "about" in cb_data:
         await update.message.edit_text(
-            "Language: Python\nFramework: Pyrogram\nEngine: YTDL\nCorded By: @kd_botz\n\nPowered by @subhan011",
+            "Language: Python\nFramework: Pyrogram\nEngine: YTDL\nCorded By: @subhan011\n\nPowered by @kd_botz",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
