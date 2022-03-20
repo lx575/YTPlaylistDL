@@ -10,12 +10,12 @@ _🎯 Follow me and star this repo for more telegram bots._
 ## 📌 Deploy to Heroku
 Click below button to deploy.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnjanaMadu/YTPlaylistDL)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subhan/YTPlaylistDL)
 
 ## 📌 Credits
 - [Youtube-DL](https://youtube-dl.org) for Youtube-DL python
 - [WBB](https://github.com/thehamkercat/WilliamButcherBot) for is_downloading idea
-- [Me](https://github.com/AnjanaMadu) for this Project 🤪
+- [Me](https://github.com/subhan-1) for this Project 🤪
 
 ## 📌 License
 ```
@@ -35,3 +35,4 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>
 ```
+# telegram -> [@subhan011](https://t.me/subhan011)
