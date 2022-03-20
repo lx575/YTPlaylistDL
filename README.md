@@ -10,7 +10,7 @@ _🎯 Follow me and star this repo for more telegram bots._
 ## 📌 Deploy to Heroku
 Click below button to deploy.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subhan/YTPlaylistDL)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subhan-1/YTPlaylistDL)
 
 ## 📌 Credits
 - [Me](https://github.com/subhan-1) for this Project 🤪
