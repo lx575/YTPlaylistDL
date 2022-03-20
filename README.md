@@ -37,3 +37,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 ```
 ### telegram [@subhan011](https://t.me/subhan011)
 ### Follow on github [subhan-1](https;//github.com/subhan-1)
+### TG bot channel  [@kd_botz](https://t.me/kd_botz)
