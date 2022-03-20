@@ -22,7 +22,7 @@ import asyncio
 @Client.on_message(filters.command("start"))
 async def start_msg(client, message):
     await message.reply_text(
-        f"Hi {message.from_user.mention},If you need any help, Just click help button.\n\nProject by @Harp_Tech",
+        f"Hi {message.from_user.mention},If you need any help, Just click help button.\n\nProject by @subhan011",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -53,7 +53,7 @@ async def cb_handler(client, update):
         )
     elif "about" in cb_data:
         await update.message.edit_text(
-            "Language: Python\nFramework: Pyrogram\nEngine: YTDL\nCorded By: @Anjana_Ma\n\nPowered by @Harp_Tech",
+            "Language: Python\nFramework: Pyrogram\nEngine: YTDL\nCorded By: @kd_botz\n\nPowered by @subhan011",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
@@ -65,7 +65,7 @@ async def cb_handler(client, update):
         )
     elif "back" in cb_data:
         await update.message.edit_text(
-            f"Hi {update.from_user.mention},If you need any help, Just click help button.\n\nProject by @Harp_Tech",
+            f"Hi {update.from_user.mention},If you need any help, Just click help button.\n\nProject by @subhan011",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
